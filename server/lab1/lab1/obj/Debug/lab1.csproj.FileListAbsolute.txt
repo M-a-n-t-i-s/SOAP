@@ -1,0 +1,36 @@
+D:\Student\Korolev\lab1\lab1\bin\lab1.dll.config
+D:\Student\Korolev\lab1\lab1\bin\lab1.dll
+D:\Student\Korolev\lab1\lab1\bin\lab1.pdb
+D:\Student\Korolev\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Student\Korolev\lab1\lab1\obj\Debug\lab1.dll
+D:\Student\Korolev\lab1\lab1\obj\Debug\lab1.pdb
+D:\korolev\lab1\lab1\bin\lab1.dll.config
+D:\korolev\lab1\lab1\bin\lab1.dll
+D:\korolev\lab1\lab1\bin\lab1.pdb
+D:\korolev\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\korolev\lab1\lab1\obj\Debug\lab1.dll
+D:\korolev\lab1\lab1\obj\Debug\lab1.pdb
+Y:\2_МАГИСТРАТУРА\ИиВТ\korolev\lab1\lab1\bin\lab1.dll.config
+Y:\2_МАГИСТРАТУРА\ИиВТ\korolev\lab1\lab1\bin\lab1.dll
+Y:\2_МАГИСТРАТУРА\ИиВТ\korolev\lab1\lab1\bin\lab1.pdb
+Y:\2_МАГИСТРАТУРА\ИиВТ\korolev\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+Y:\2_МАГИСТРАТУРА\ИиВТ\korolev\lab1\lab1\obj\Debug\lab1.dll
+Y:\2_МАГИСТРАТУРА\ИиВТ\korolev\lab1\lab1\obj\Debug\lab1.pdb
+D:\korolev\new\lab1\lab1\bin\lab1.dll.config
+D:\korolev\new\lab1\lab1\bin\lab1.dll
+D:\korolev\new\lab1\lab1\bin\lab1.pdb
+D:\korolev\new\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\korolev\new\lab1\lab1\obj\Debug\lab1.dll
+D:\korolev\new\lab1\lab1\obj\Debug\lab1.pdb
+D:\Новая папка\lab1\lab1\bin\lab1.dll.config
+D:\Новая папка\lab1\lab1\bin\lab1.dll
+D:\Новая папка\lab1\lab1\bin\lab1.pdb
+D:\Новая папка\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Новая папка\lab1\lab1\obj\Debug\lab1.dll
+D:\Новая папка\lab1\lab1\obj\Debug\lab1.pdb
+D:\Soap\server\lab1\lab1\bin\lab1.dll.config
+D:\Soap\server\lab1\lab1\bin\lab1.dll
+D:\Soap\server\lab1\lab1\bin\lab1.pdb
+D:\Soap\server\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Soap\server\lab1\lab1\obj\Debug\lab1.dll
+D:\Soap\server\lab1\lab1\obj\Debug\lab1.pdb
